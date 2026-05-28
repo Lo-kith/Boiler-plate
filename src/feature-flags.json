@@ -1,0 +1,18 @@
+{
+  "browseComponents": true,
+  "previewAnimations": true,
+  "copyCode": true,
+  "DownloadTSX": true,
+  "installCLI": true,
+  "customizeThemes": true,
+  "contributeComponents": true,
+  "useTemplates": true,
+  "createModernWebsites": true,
+  "heroSection": true,
+  "componentPages": true,
+  "glowButton": true,
+  "hooks": true,
+  "registry": true,
+  "utilities": true,
+  "animationSystem": true
+}
